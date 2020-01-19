@@ -1,3 +1,7 @@
+##Projeto Rocketfy (com as drag n' drop) 
+
+Projeto desenvolvido através de uma aula da Rocketseat.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
